@@ -1,0 +1,3 @@
+[2022-12-22T00:27:35.707] [WARN] Warn - Ruta: "/info/hola" | Método: "GET" | Respuesta HTTP: "404"
+[2022-12-22T00:31:03.599] [WARN] Warn - Ruta: "/info/hola" | Método: "GET" | Respuesta HTTP: "404"
+[2022-12-22T00:32:42.716] [WARN] Warn - Ruta: "/home" | Método: "GET" | Respuesta HTTP: "404"
